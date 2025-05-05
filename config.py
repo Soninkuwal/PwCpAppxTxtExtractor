@@ -1,4 +1,7 @@
-api_id = "24473318"
-api_hash = "e7dd0576c5ac0ff8f90971d6bb04c8f5"
-bot_token = "8034069514:AAHUBpzSCq41jPwsJkDbXuEoVC_yCxzyuw0"
-auth_users = [5840594311]
+from os import getenv
+
+api_id =  getenv("API_ID", "22215080")
+api_hash = getenv("API_HASH", "6ab80ad5d78fee18fdd9b909edfbafd5")
+bot_token = getenv("BOT_TOKEN", "")
+auth_users = getenv("AUTH_USERS", "")
+#"7841292070, -1002461666553, -1002461666553"
