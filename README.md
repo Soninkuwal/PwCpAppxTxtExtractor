@@ -1,4 +1,4 @@
-## PW & CP WITHOUT PURCHASE TXT EXTRACTOR 
+## PW,CP & Appx WITHOUT PURCHASE TXT EXTRACTOR 
 
 Fill the your api id,api hash & bot token in the config.py and main.py file
 
